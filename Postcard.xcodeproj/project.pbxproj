@@ -13,6 +13,8 @@
 		94F0F3DF19F8355E00F23E14 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94F0F3DE19F8355E00F23E14 /* Images.xcassets */; };
 		94F0F3E219F8355E00F23E14 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94F0F3E019F8355E00F23E14 /* LaunchScreen.xib */; };
 		94F0F3EE19F8355E00F23E14 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F0F3ED19F8355E00F23E14 /* PostcardTests.swift */; };
+		94F0F3F819F83EAC00F23E14 /* Spain_Sagrada_Familia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94F0F3F719F83EAC00F23E14 /* Spain_Sagrada_Familia.jpg */; };
+		94F0F3FA19F83EC500F23E14 /* Albert_Einstein_1979_USSR_Stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94F0F3F919F83EC500F23E14 /* Albert_Einstein_1979_USSR_Stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		94F0F3E719F8355E00F23E14 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94F0F3EC19F8355E00F23E14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		94F0F3ED19F8355E00F23E14 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		94F0F3F719F83EAC00F23E14 /* Spain_Sagrada_Familia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Spain_Sagrada_Familia.jpg; sourceTree = "<group>"; };
+		94F0F3F919F83EC500F23E14 /* Albert_Einstein_1979_USSR_Stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Albert_Einstein_1979_USSR_Stamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		94F0F3D519F8355D00F23E14 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				94F0F3F719F83EAC00F23E14 /* Spain_Sagrada_Familia.jpg */,
+				94F0F3F919F83EC500F23E14 /* Albert_Einstein_1979_USSR_Stamp.jpg */,
 				94F0F3D619F8355D00F23E14 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				94F0F3DD19F8355D00F23E14 /* Main.storyboard in Resources */,
 				94F0F3E219F8355E00F23E14 /* LaunchScreen.xib in Resources */,
+				94F0F3FA19F83EC500F23E14 /* Albert_Einstein_1979_USSR_Stamp.jpg in Resources */,
 				94F0F3DF19F8355E00F23E14 /* Images.xcassets in Resources */,
+				94F0F3F819F83EAC00F23E14 /* Spain_Sagrada_Familia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
